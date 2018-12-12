@@ -120,6 +120,8 @@ const styles = StyleSheet.create({
         flexGrow: 1,
         alignItems: 'center',
         zIndex: 10000,
+        position: 'absolute',
+        bottom: 0,
     },
     content: {
         flexGrow: 1,
